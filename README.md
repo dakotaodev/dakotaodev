@@ -1,16 +1,30 @@
-## Hi there 👋
+# Dakota Oberhauser
 
-<!--
-**dakotaodev/dakotaodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior AI Engineer · Agentic Platform Lead**  
+San Diego, CA &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/dakota-oberhauser) &nbsp;·&nbsp; [dakota.o.dev@gmail.com](mailto:dakota.o.dev@gmail.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My focus is multi-agent orchestration, enterprise LLM systems, and AI platform engineering at scale.
+
+Before going deep on agentic systems I built MLOps infrastructure across 6 business units on GCP, and before that spent three years as the most senior engineer on defense data platform engagements for DoD clients (active security clearance through 2028).
+
+**MS Computer Science — Machine Learning** · Georgia Tech
+
+---
+
+## What I'm Working On
+
+| Project | Description |
+|---|---|
+| [parenting-rag](https://github.com/dakotaodev/parenting-rag) | Production RAG pipeline over pediatric clinical guidelines (AAP + PubMed) — hybrid BM25 + semantic retrieval, eval framework, and CI-gated quality gates |
+| [brag](https://github.com/dakotaodev/brag) | CLI tool for maintaining a brag doc — track your wins without leaving the terminal |
+
+---
+
+## Stack
+
+**Agentic AI** &nbsp;·&nbsp; Google ADK · LangChain · LlamaIndex · MCP · multi-agent orchestration · RAG · vector search · LLM evals  
+**ML / MLOps** &nbsp;·&nbsp; KubeFlow Pipelines · VertexAI · Apache Beam · Scikit-Learn · LightGBM  
+**Cloud / Infra** &nbsp;·&nbsp; GCP · GKE · Docker · FastAPI · Redis · Spanner · BigQuery · CI/CD  
+**Languages** &nbsp;&nbsp;&nbsp;&nbsp;·&nbsp; Python · SQL · TypeScript · Go
