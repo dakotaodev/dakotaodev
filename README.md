@@ -7,7 +7,7 @@ San Diego, CA &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/dakota-oberhause
 
 My focus is multi-agent orchestration, enterprise LLM systems, and AI platform engineering at scale.
 
-Before going deep on agentic systems I built MLOps infrastructure across 6 business units on GCP, and before that spent three years as the most senior engineer on defense data platform engagements for DoD clients (active security clearance through 2028).
+Before going deep on agentic systems I built MLOps infrastructure  on GCP, and before that spent three years as the most senior engineer on defense data platform engagements for DoD clients.
 
 **MS Computer Science — Machine Learning** · Georgia Tech
 
